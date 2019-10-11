@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://enietithi.chawuciren.cc/sitemap.xml
